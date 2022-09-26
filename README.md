@@ -1,0 +1,1 @@
+[my foto](foto.jpg)
