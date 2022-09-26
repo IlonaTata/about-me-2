@@ -2,4 +2,4 @@ fffffffff
 
 
 
-[my foto](foto.jpg)
+![my foto](foto.jpg)
